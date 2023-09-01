@@ -2,11 +2,11 @@
 
 main()
 {
-	printf(" - - - - - - \n");
-	printf("|           |\n");
-	printf("|           |\n");
-	printf("|  jaydeep  |\n");
-	printf("|           |\n");
-	printf("|           |\n");
-	printf(" - - - - - - ");
+     printf(" - - - - - - \n");
+     printf("|           |\n");
+     printf("|           |\n");
+     printf("|  jaydeep  |\n");
+     printf("|           |\n");
+     printf("|           |\n");
+     printf(" - - - - - - ");
 }
