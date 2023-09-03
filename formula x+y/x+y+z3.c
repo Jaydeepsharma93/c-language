@@ -10,7 +10,7 @@ intmain()
 	scanf("%d" ,&y);
 	printf("value of z:");
 	scanf("%d" ,&z);
-	a=(x*x*x)+(y*y*y)+(z*z*z)+(3*(x+y)(y+z)(z+x));
+	a=(x*x*x)+(y*y*y)+(z*z*z)+(3*(x+y)*(y+z)*(z+x));
 	
 	printf("(x+y+z)3:%d",a);
 	
