@@ -3,7 +3,7 @@
 main()
 {
 	int s,h,d,t,a;
-	printf("enter tha valu:");
+	printf("enter basic salary:");
 	scanf("%d",&s);
 	h=s*10/100;
 	d=s*8/100;
@@ -12,5 +12,5 @@ main()
 	printf("%d\n",h);
 	printf("%d\n",d);
 	printf("%d\n",t);
-	printf("%d\n",a);
+	printf("gross salary:%d\n",a);
 }
