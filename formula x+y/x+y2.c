@@ -2,8 +2,7 @@
 main()
 {
 	int x,y,a;
-
-	printf("value of x");
+        printf("value of x");
 	scanf("%d",&x);
 	printf("value of y");
 	scanf("%d" ,&y);
