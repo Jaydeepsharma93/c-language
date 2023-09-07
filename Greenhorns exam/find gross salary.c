@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 main()
 {
 	int s,h,d,t,a;
