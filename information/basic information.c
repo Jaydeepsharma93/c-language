@@ -5,7 +5,7 @@ main()
     int a=16,b=90797,c=72485,e=91,f=141,g=22,h=9,i=2007;
     char d='o';
 
-	printf("name:jaydeep\n");
+    printf("name:jaydeep\n");
     printf("age:%d\n",a);
     printf("Dob:%d/%d/%d\n",g,h,i);
     printf("contact.no:+%d%d %d\n",e,b,c);
