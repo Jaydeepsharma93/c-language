@@ -6,7 +6,7 @@ main()
     char d='o';
 
 	printf("name:jaydeep\n");
-	printf("age:%d\n",a);
+    printf("age:%d\n",a);
     printf("Dob:%d/%d/%d\n",g,h,i);
     printf("contact.no:+%d%d %d\n",e,b,c);
     printf("blood grop:%c\n",d);
