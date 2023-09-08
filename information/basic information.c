@@ -7,7 +7,7 @@ main()
 
 	printf("name:jaydeep\n");
 	printf("age:%d\n",a);
-	printf("Dob:%d/%d/%d\n",g,h,i);
+    printf("Dob:%d/%d/%d\n",g,h,i);
     printf("contact.no:+%d%d %d\n",e,b,c);
     printf("blood grop:%c\n",d);
     printf("add:%d,suncity row house dindoli,surat\n",f);
