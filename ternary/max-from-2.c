@@ -9,5 +9,5 @@ main()
 	printf("enter the num2:");
 	scanf("%d",&b);
 	
-	(a>b)?printf("num1 is max"):printf("num2 is max");
+        (a>b)?printf("num1 is max"):printf("num2 is max");
 } 
