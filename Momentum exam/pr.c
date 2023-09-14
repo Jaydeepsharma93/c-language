@@ -17,6 +17,8 @@ main()
 	scanf("%d",&computer);
 	total=physcis+chemistry+bio+maths+computer;
 	pr=(total*100)/500;
+	 printf("total marks\n=%d",total);
+	 printf("pr=%.2f\n",pr);
 	
 	   if(pr>=90 && pr<=100)
        {
