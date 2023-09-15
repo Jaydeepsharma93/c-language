@@ -1,6 +1,5 @@
 #include<stdio.h>
-
-void main()
+main()
 {
 	int a=1,n,sum=0;
 	 printf("enter the value:");
