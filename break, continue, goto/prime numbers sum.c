@@ -18,6 +18,6 @@ main()
        goto start;
     }
     printf("\n");
-   sum=sum+2+3+5+7;
+   sum=sum+17;
     printf("the sum of prime numbers between 1 to 50 is:%d",sum);
 }
