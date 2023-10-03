@@ -2,18 +2,22 @@
 
 main()
 {
-	int n,i,a[5];
-    printf("enter any 5 table num:\n");
-	for(i=0; i<5; i++)
+	int n,i,b;
+	printf("enter size of array:");
+	scanf("%d",&b);
+	int a[b];
+    printf("enter any table num:\n");
+	for(i=0; i<b; i++)
 	{
 	  printf("a[%d]:",i);
 	  scanf("%d",&a[i]);	
 	}
-	for(n=1; n<=10; n++)
+	for(n=0; n<b; n++)
 	{
-		for(i=0; i<5; i++)
+		for(i=1; i<=10; i++)
 		{
-			printf("%d * %d = %d\t\t ",a[i],n,a[i]*n);
+			printf("%d * %d = %d\n",a[n],i,a[n]*i);
 		}
+		printf("\n\n");
 	}
 }
