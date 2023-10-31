@@ -8,7 +8,7 @@ main()
     puts("Enter the string : ");
     gets(str);
 
-    puts("\n \n");
+    puts("\n\n");
     
     int length = 0, i, j = 0;
     
